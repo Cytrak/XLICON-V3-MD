@@ -1,7 +1,7 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
+//                                 CYTRA-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
 //                                                                                                      // 
 //                                         Ｖ：3.0                                                      // 
 //                                                                                                      // 
@@ -16,19 +16,17 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
- //  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+ //  * @project_name : cytra-MD
+ //  * @author :CytraK
+//   * @description : XLICON-V3 ,am cytra a developer.
 //*
 //* 
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
+//Telegram: t.me/cytrak9
 //GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//WhatsApp: +254715155196
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
 //   * © 2024 XLICON-V3-MD.
@@ -41,20 +39,20 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
+global.ytname = process.env.YT_NAME || 
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: CytraK" //ur github or insta name
 //________________________________________________________________________________________________________
-global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
+global.location = process.env.GL_INFO || "Kenya,Nairobi,Ruaka" //ur location
 //________________________________________________________________________________________________________
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || 'CYTRA-MD' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '715155196' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'Cytrak9' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
@@ -68,7 +66,7 @@ global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLI
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY Cytrak9"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
 //________________________________________________________________________________________________________
@@ -104,10 +102,10 @@ global.groupevent = process.env.GROUP_ANNOUNCE_MSG || true //show update message
 //msg
 global.mess = {
 	limit: '_*Your limit is up!*_',
-	nsfw: '_*Nsfw is disabled in this group, Please tell the admin to enable*_',
+	nsfw: '_*Nsfw is disabled in this group, Please tell the admin to enable it.usinipee stress*_',
     done: '_*Done ✓*_',
     error: '_*I am having error to execute this*_',
-    success: '_*Here you go!*_'
+    success: '_*Here you go nigga!*_'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XliconMedia/theme/xliconpic.jpg')
